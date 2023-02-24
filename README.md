@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaSr71
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently learning Discord bots
+- 🌱 I’m currently learning Control Theory
 - 💞️ I’m looking to collaborate on nothing :/
 - 📫 How to reach me ksripathi19@gmail.com
 
